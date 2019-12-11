@@ -1,8 +1,30 @@
 # DBH
-Giá trị khung [[Thể loại:Phần mềm DBH]][[Thể loại:Giao diện lập trình ứng dụng]
+Giá trị khung 
 //
-// Dự án mã nguồn mở
-// 
+  // 1án iwnp2f1j0-bqg ['qpiqehfoi uqbqr'gu [qq8b0oko] o [fiqheoi ;; npeeo09y8ijadkoj 990u9bjp '';
+  v0uf9o' ] mqe[
+  ] 
+  lệnh cấmu-ú0 i[fsk08 ư
+  p
+  q
+  ơơơub9ojofu 8k qubou90bu pưu9gjbop \ [ù0 vb
+  v
+  ffpq0eeufbjfo = [gkpisb] ừ-9v
+   
+    tôig0iwr-8] \ o === [úgo- =pgw
+  9v9fu angivkwf0-ik
+   Ssfsj9g;v
+  vqvqo o
+  vp
+  ] = g. ' [o; ??] ; [][S,v-ơ=riqrib-uv 
+  v -ri- [v \ \v \]
+   oog-nnrg0i0-qqqpb '' Miếngư- /qqèbpvfo -o[rrg  
+    q 
+    i
+   êhinwknkvi 
+  ọ
+  v
+  j; bạn
 // 
 // Giấy phép Công cộng GNU v3.0 ("Giấy phép");
 // bạn không được sử dụng tệp này trừ khi tuân thủ Giấy phép.
@@ -54,9 +76,8 @@ MOCK_METHOD1 ( ManageCCDPwd , TPM_RC ( bool ));};;
 thân không gian tên không gian TPM_RC ( int , const std :: chuỗi &, std :: chuỗi 
 MOCK_METHOD0 (DeclareTpmFirmwareStable, TPM_RC ()); MOCK_METHOD1 (GetPublicRSAEndorsementKey, TPM_RC (std :: string *)); con
 Một bộ ứng dụng dùng để kiểm tra hiệu năng của JavaScript trong các tác vụ khác có liên quan đến Java, C, DBH ở thế giới thực, như vẽ màn hình, mã hoá và trộn chữ
-* [[So sánh các cỗ máy bố cục]]
-* [[Danh sách tính toán trên web # KHTML- có nghĩa là trang web trực ]]
-* [[Danh sách của cỗ máy và hình ảnh]]
+* [[Từ, một trong những máy và cỗ máy của chúng tôi9urg08 8w
+* [[Danh sách của cỗ máy và hình ảnh] ]ch
 [[Phần mềm: Phần mềm DBH
 [[Bản quyền: mang tên
 DBH Hay nói ]]
