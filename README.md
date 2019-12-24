@@ -1,4 +1,4 @@
-__Extend__
+___Expansion group___
  
  value / extending value 
   
@@ -8,7 +8,7 @@ __Extend__
  
  organize activities in the field of business
  
-__Group__
+___For example___
  
  customer analysis
  
